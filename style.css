@@ -154,7 +154,7 @@ li.fade {
 
  .wrapper {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(images/background-photo-4.jpg);
-    height: 100vh;
+    height: 100%;
     background-position: center;
     background-repeat: repeat;
     background-size: cover;
