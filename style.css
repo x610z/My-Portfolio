@@ -21,6 +21,10 @@
     font-family: 'Lato', 'Lucida Grande', 'Lucida Sans Unicode', Tahoma, Sans-Serif;
 }
 
+body {
+    height: 90vh;
+}
+
 /*  =============
     2. header
     =============*/
